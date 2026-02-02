@@ -16,8 +16,8 @@ The project focuses on:
 
 ## Clone the repository 
 ```bash
-git clone https://github.com/EmirTurkbey/container-labs.git
-cd nginx/basic
+git clone https://github.com/EmirTurkbey/devops-lab.git
+cd container-labs/docker/nginx/basic
 ```
 
 ## Repository Structure
