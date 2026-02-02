@@ -21,19 +21,22 @@ cd nginx/basic
 ```
 
 ## Repository Structure
-Docker -> Nginx image definition
-docker-compose.yml -> Container orchestration
-nginx.conf -> Nginx configuration
-html/ -> Static web content
+Docker -> Nginx image definition  
+docker-compose.yml -> Container orchestration  
+nginx.conf -> Nginx configuration  
+html/ -> Static web content  
 
 
 ## Build and Run
 Build and run the container:
+```bash
 docker compose up --build
+```
 
 Run in detached mode:
+```bash
 docker compose up -d
-
+```
 
 ## Access the Application
 Type in browser:
