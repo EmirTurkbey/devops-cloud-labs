@@ -44,8 +44,9 @@ http://localhost:8080
 
 
 ## Stop
+```bash
 docker compose down
-
+```
 
 
 
