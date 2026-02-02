@@ -9,7 +9,7 @@ The project focuses on:
 
 
 ## Requirements
-  -  gGit
+  -  Git
   -  Docker
   -  Docker Compose
 
