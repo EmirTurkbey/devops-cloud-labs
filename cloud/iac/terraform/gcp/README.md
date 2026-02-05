@@ -36,7 +36,7 @@ curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo gpg--dearmor -
 ```
 
 
-Create a service account in https://www.console.cloud.google.com/
+Create a service account in [https://www.console.cloud.google.com/](https://console.cloud.google.com/)  
 Under IAM & Admin, generate a service account and create a new key and download it as JSON 
 
 
@@ -83,4 +83,5 @@ Cleanup
 ```bash
 terraform destroy
 ```
+
 
