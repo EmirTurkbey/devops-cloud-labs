@@ -46,9 +46,9 @@ Install virtualization packages:
 ```bash
 sudo apt install qemu-kvm virt-manager bridge-utils
 ```
-qemu-kvm -> Hypervisor
-virt-manager -> GUI management tool
-bridge-utils -> Network bridging support
+qemu-kvm -> Hypervisor  
+virt-manager -> GUI management tool  
+bridge-utils -> Network bridging support  
 
 Ensure kernel modules are properly loaded by rebooting
 ```bash
@@ -115,3 +115,4 @@ This setup provides:
 
 Local virtualization using KVM
 GUI and CLI management options
+
